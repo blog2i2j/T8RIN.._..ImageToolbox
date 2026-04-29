@@ -687,6 +687,7 @@ or click one of the badges below.
     - Zip PDF
     - Print PDF
     - PDF to Text (OCR)
+    - Remove Annotations
 - Document Scanning
 - AI tools (95+ ready to use models available)
     - Upscale
