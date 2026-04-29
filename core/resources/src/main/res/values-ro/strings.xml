@@ -2231,4 +2231,5 @@
     <string name="ungroup">Degrupați</string>
     <string name="add_shadow_sub">Adăugați umbră încețoșată în spatele stratului cu culori și decalaje configurabile</string>
     <string name="distortion_filter">Distorsiuni în funcție de conținut</string>
+    <string name="oom_description">Nu este suficientă memorie pentru a finaliza această acțiune. Încercați să utilizați o imagine mai mică, să închideți alte aplicații sau să reporniți aplicația.</string>
 </resources>

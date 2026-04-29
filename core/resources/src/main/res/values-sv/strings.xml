@@ -2231,4 +2231,5 @@
     <string name="ungroup">Dela upp gruppen</string>
     <string name="add_shadow_sub">Lägg till oskärpa bakom lagret med konfigurerbar färg och offset</string>
     <string name="distortion_filter">Innehållsmedveten distorsion</string>
+    <string name="oom_description">Inte tillräckligt med minne för att slutföra den här åtgärden. Försök att använda en mindre bild, stänga andra appar eller starta om appen.</string>
 </resources>

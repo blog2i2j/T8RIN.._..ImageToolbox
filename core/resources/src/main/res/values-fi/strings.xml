@@ -2230,4 +2230,5 @@
     <string name="ungroup">Pura ryhmittely</string>
     <string name="add_shadow_sub">Lisää sumea varjo tason taakse konfiguroitavilla väreillä ja poikkeamilla</string>
     <string name="distortion_filter">Sisältötietoinen vääristyminen</string>
+    <string name="oom_description">Muisti ei riitä tämän toiminnon suorittamiseen. Yritä käyttää pienempää kuvaa, sulkea muita sovelluksia tai käynnistää sovellus uudelleen.</string>
 </resources>

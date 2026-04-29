@@ -2229,4 +2229,5 @@
     <string name="ungroup">그룹 해제</string>
     <string name="add_shadow_sub">구성 가능한 색상과 오프셋을 사용하여 레이어 뒤에 흐림 그림자 추가</string>
     <string name="distortion_filter">콘텐츠 인식 왜곡</string>
+    <string name="oom_description">이 작업을 완료하려면 메모리가 부족합니다. 더 작은 이미지를 사용하거나, 다른 앱을 닫거나, 앱을 다시 시작해 보세요.</string>
 </resources>

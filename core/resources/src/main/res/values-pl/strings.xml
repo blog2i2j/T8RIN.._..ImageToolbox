@@ -2232,4 +2232,5 @@
     <string name="ungroup">Rozgrupuj</string>
     <string name="add_shadow_sub">Dodaj rozmyty cień za warstwą z konfigurowalnym kolorem i przesunięciami</string>
     <string name="distortion_filter">Zniekształcenie świadome treści</string>
+    <string name="oom_description">Za mało pamięci, aby ukończyć tę czynność. Spróbuj użyć mniejszego obrazu, zamknij inne aplikacje lub uruchom ponownie aplikację.</string>
 </resources>

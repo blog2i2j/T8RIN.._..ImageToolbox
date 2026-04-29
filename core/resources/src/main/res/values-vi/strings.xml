@@ -2229,4 +2229,5 @@
     <string name="ungroup">Ungroup</string>
     <string name="add_shadow_sub">Thêm bóng mờ phía sau lớp với màu sắc và độ lệch có thể định cấu hình</string>
     <string name="distortion_filter">Biến dạng nhận thức nội dung</string>
+    <string name="oom_description">Không đủ bộ nhớ để hoàn thành hành động này. Vui lòng thử sử dụng hình ảnh nhỏ hơn, đóng các ứng dụng khác hoặc khởi động lại ứng dụng.</string>
 </resources>

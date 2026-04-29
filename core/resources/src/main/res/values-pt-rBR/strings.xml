@@ -2230,4 +2230,5 @@
     <string name="ungroup">Desagrupar</string>
     <string name="add_shadow_sub">Adicione sombra desfocada atrás da camada com cores e deslocamentos configuráveis</string>
     <string name="distortion_filter">Distorção sensível ao conteúdo</string>
+    <string name="oom_description">Não há memória suficiente para concluir esta ação. Tente usar uma imagem menor, fechar outros aplicativos ou reiniciar o aplicativo.</string>
 </resources>

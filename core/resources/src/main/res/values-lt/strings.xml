@@ -2233,4 +2233,5 @@
     <string name="ungroup">Išgrupuoti</string>
     <string name="add_shadow_sub">Už sluoksnio pridėkite neryškų šešėlį su konfigūruojama spalva ir poslinkiais</string>
     <string name="distortion_filter">Turinio suvokimo iškraipymas</string>
+    <string name="oom_description">Nepakanka atminties šiam veiksmui atlikti. Pabandykite naudoti mažesnį vaizdą, uždaryti kitas programas arba iš naujo paleisti programą.</string>
 </resources>

@@ -2230,4 +2230,5 @@
     <string name="ungroup">ਅਨਗਰੁੱਪ ਕਰੋ</string>
     <string name="add_shadow_sub">ਸੰਰਚਨਾਯੋਗ ਰੰਗ ਅਤੇ ਆਫਸੈਟਾਂ ਦੇ ਨਾਲ ਪਰਤ ਦੇ ਪਿੱਛੇ ਬਲਰ ਸ਼ੈਡੋ ਸ਼ਾਮਲ ਕਰੋ</string>
     <string name="distortion_filter">ਸਮਗਰੀ ਜਾਗਰੂਕ ਵਿਗਾੜ</string>
+    <string name="oom_description">ਇਸ ਕਾਰਵਾਈ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਛੋਟਾ ਚਿੱਤਰ ਵਰਤ ਕੇ, ਹੋਰ ਐਪਾਂ ਨੂੰ ਬੰਦ ਕਰਨ, ਜਾਂ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
 </resources>

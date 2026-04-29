@@ -2230,4 +2230,5 @@
     <string name="ungroup">Csoportbontás feloldása</string>
     <string name="add_shadow_sub">Adjon hozzá homályos árnyékot a réteg mögé konfigurálható színekkel és eltolásokkal</string>
     <string name="distortion_filter">Tartalomtudatos torzítás</string>
+    <string name="oom_description">Nincs elég memória a művelet végrehajtásához. Kérjük, próbáljon meg egy kisebb képet használni, zárjon be más alkalmazásokat, vagy indítsa újra az alkalmazást.</string>
 </resources>

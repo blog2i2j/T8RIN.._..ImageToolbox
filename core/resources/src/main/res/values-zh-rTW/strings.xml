@@ -2229,4 +2229,5 @@
     <string name="ungroup">取消分组</string>
     <string name="add_shadow_sub">使用可配置的颜色和偏移在图层后面添加模糊阴影</string>
     <string name="distortion_filter">内容感知失真</string>
+    <string name="oom_description">内存不足，无法完成此操作。请尝试使用较小的图像、关闭其他应用程序或重新启动应用程序。</string>
 </resources>

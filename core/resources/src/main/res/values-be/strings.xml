@@ -2232,4 +2232,5 @@
     <string name="ungroup">Разгрупаваць</string>
     <string name="add_shadow_sub">Дадайце цень размыцця за пласт з наладжвальнымі колерам і зрухамі</string>
     <string name="distortion_filter">Скажэнне з улікам кантэнту</string>
+    <string name="oom_description">Не хапае памяці для выканання гэтага дзеяння. Калі ласка, паспрабуйце выкарыстоўваць меншы відарыс, закрыць іншыя праграмы або перазапусціць праграму.</string>
 </resources>

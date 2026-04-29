@@ -2229,4 +2229,5 @@
     <string name="ungroup">グループを解除する</string>
     <string name="add_shadow_sub">構成可能な色とオフセットを使用してレイヤーの後ろにぼかしシャドウを追加します</string>
     <string name="distortion_filter">コンテンツに応じた歪み</string>
+    <string name="oom_description">このアクションを完了するにはメモリが不足しています。小さい画像を使用するか、他のアプリを閉じるか、アプリを再起動してみてください。</string>
 </resources>

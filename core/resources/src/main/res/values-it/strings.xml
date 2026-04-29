@@ -2230,4 +2230,5 @@
     <string name="ungroup">Separa</string>
     <string name="add_shadow_sub">Aggiungi ombra sfocata dietro il livello con colori e offset configurabili</string>
     <string name="distortion_filter">Distorsione consapevole del contenuto</string>
+    <string name="oom_description">Memoria insufficiente per completare questa azione. Prova a utilizzare un\'immagine più piccola, a chiudere altre app o a riavviare l\'app.</string>
 </resources>
